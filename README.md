@@ -6,10 +6,10 @@ A simple quiz app made using tkinter GUI toolkit and [opentriviadb](https://open
 
 ### Windows
 ```
-> python main.py
+python main.py
 ```
 
 ### Linux
 ```
-$ python3 main.py
+python3 main.py
 ```
